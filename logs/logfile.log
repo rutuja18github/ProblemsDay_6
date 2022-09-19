@@ -11,3 +11,29 @@ INFO  | 2022-09-19 02:50:41 | [main] assignment.PrefectNumber (PrefectNumber.jav
 INFO  | 2022-09-19 02:50:46 | [main] assignment.PrefectNumber (PrefectNumber.java:29) - 25 is not a perfect number.
 INFO  | 2022-09-19 02:50:54 | [main] assignment.PrefectNumber (PrefectNumber.java:15) - Enter the number: 
 INFO  | 2022-09-19 02:50:57 | [main] assignment.PrefectNumber (PrefectNumber.java:26) - 28 is a perfect number.
+INFO  | 2022-09-19 03:02:46 | [main] assignment.PrefectNumber (PrefectNumber.java:15) - Enter the number: 
+INFO  | 2022-09-19 03:02:51 | [main] assignment.PrefectNumber (PrefectNumber.java:29) - 13 is not a perfect number.
+INFO  | 2022-09-19 03:04:27 | [main] assignment.PrimeNumber (PrimeNumber.java:17) - 16 is not a prime number.
+INFO  | 2022-09-19 03:04:27 | [main] assignment.PrimeNumber (PrimeNumber.java:20) - 16 is a prime number.
+INFO  | 2022-09-19 03:04:27 | [main] assignment.PrimeNumber (PrimeNumber.java:17) - 16 is not a prime number.
+INFO  | 2022-09-19 03:04:27 | [main] assignment.PrimeNumber (PrimeNumber.java:20) - 16 is a prime number.
+INFO  | 2022-09-19 03:04:27 | [main] assignment.PrimeNumber (PrimeNumber.java:20) - 16 is a prime number.
+INFO  | 2022-09-19 03:04:27 | [main] assignment.PrimeNumber (PrimeNumber.java:20) - 16 is a prime number.
+INFO  | 2022-09-19 03:04:27 | [main] assignment.PrimeNumber (PrimeNumber.java:17) - 16 is not a prime number.
+INFO  | 2022-09-19 03:05:23 | [main] assignment.PrimeNumber (PrimeNumber.java:21) - 13 is a prime number.
+INFO  | 2022-09-19 03:05:23 | [main] assignment.PrimeNumber (PrimeNumber.java:21) - 13 is a prime number.
+INFO  | 2022-09-19 03:05:23 | [main] assignment.PrimeNumber (PrimeNumber.java:21) - 13 is a prime number.
+INFO  | 2022-09-19 03:05:23 | [main] assignment.PrimeNumber (PrimeNumber.java:21) - 13 is a prime number.
+INFO  | 2022-09-19 03:05:23 | [main] assignment.PrimeNumber (PrimeNumber.java:21) - 13 is a prime number.
+INFO  | 2022-09-19 03:06:25 | [main] assignment.PrimeNumber (PrimeNumber.java:13) - Enter number
+INFO  | 2022-09-19 03:06:31 | [main] assignment.PrimeNumber (PrimeNumber.java:22) - 27 is a prime number.
+INFO  | 2022-09-19 03:06:35 | [main] assignment.PrimeNumber (PrimeNumber.java:13) - Enter number
+INFO  | 2022-09-19 03:06:39 | [main] assignment.PrimeNumber (PrimeNumber.java:22) - 13 is a prime number.
+INFO  | 2022-09-19 03:07:01 | [main] assignment.PrimeNumber (PrimeNumber.java:13) - Enter number
+INFO  | 2022-09-19 03:07:03 | [main] assignment.PrimeNumber (PrimeNumber.java:18) - 16 is not a prime number.
+INFO  | 2022-09-19 13:13:18 | [main] assignment.PrimeNumber (PrimeNumber.java:13) - Enter number
+INFO  | 2022-09-19 13:16:51 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
+INFO  | 2022-09-19 13:16:57 | [main] assignment.PrimeNumber (PrimeNumber.java:26) - 13 is a prime number.
+INFO  | 2022-09-19 13:17:16 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
+INFO  | 2022-09-19 13:17:37 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
+INFO  | 2022-09-19 13:17:44 | [main] assignment.PrimeNumber (PrimeNumber.java:24) - 28 is not a prime number.
