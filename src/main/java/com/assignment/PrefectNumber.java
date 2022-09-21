@@ -28,10 +28,5 @@ public class PrefectNumber {
 			// prints if sum and n are not equal
 			logger.info(n + " is not a perfect number.");
 	}
-
-	public static void main(String args[]) {
-		PrefectNumber perfectObj = new PrefectNumber();
-		perfectObj.perfect();
-	}
 }
 

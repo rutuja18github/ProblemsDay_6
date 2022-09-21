@@ -84,3 +84,23 @@ INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries
 INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  13
 INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  21
 INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  34
+INFO  | 2022-09-21 23:07:41 | [main] assignment.App (App.java:17) - Hello World!
+INFO  | 2022-09-21 23:07:41 | [main] assignment.App (App.java:18) - Which program you want to run
+INFO  | 2022-09-21 23:07:41 | [main] assignment.App (App.java:19) - 1.Fibonacci Series
+INFO  | 2022-09-21 23:07:41 | [main] assignment.App (App.java:20) - 2.Prefect Number
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 0 1
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  1
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  2
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  3
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  5
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  8
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  13
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  21
+INFO  | 2022-09-21 23:07:46 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  34
+INFO  | 2022-09-21 23:07:46 | [main] assignment.PrefectNumber (PrefectNumber.java:15) - Enter the number: 
+INFO  | 2022-09-21 23:07:58 | [main] assignment.App (App.java:17) - Hello World!
+INFO  | 2022-09-21 23:07:58 | [main] assignment.App (App.java:18) - Which program you want to run
+INFO  | 2022-09-21 23:07:58 | [main] assignment.App (App.java:19) - 1.Fibonacci Series
+INFO  | 2022-09-21 23:07:58 | [main] assignment.App (App.java:20) - 2.Prefect Number
+INFO  | 2022-09-21 23:08:01 | [main] assignment.PrefectNumber (PrefectNumber.java:15) - Enter the number: 
+INFO  | 2022-09-21 23:08:03 | [main] assignment.PrefectNumber (PrefectNumber.java:26) - 28 is a perfect number.
