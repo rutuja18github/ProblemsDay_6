@@ -37,3 +37,50 @@ INFO  | 2022-09-19 13:16:57 | [main] assignment.PrimeNumber (PrimeNumber.java:26
 INFO  | 2022-09-19 13:17:16 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
 INFO  | 2022-09-19 13:17:37 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
 INFO  | 2022-09-19 13:17:44 | [main] assignment.PrimeNumber (PrimeNumber.java:24) - 28 is not a prime number.
+INFO  | 2022-09-19 15:12:52 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
+INFO  | 2022-09-19 15:12:59 | [main] assignment.PrimeNumber (PrimeNumber.java:26) - 13 is a prime number.
+INFO  | 2022-09-19 15:13:06 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
+INFO  | 2022-09-19 15:13:12 | [main] assignment.PrimeNumber (PrimeNumber.java:24) - 60 is not a prime number.
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:22) - 0 1
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  1
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  2
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  3
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  5
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  8
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  13
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  21
+INFO  | 2022-09-21 22:50:43 | [main] assignment.FibonacciSeries (FibonacciSeries.java:15) -  34
+INFO  | 2022-09-21 22:53:26 | [main] assignment.App (App.java:14) - Hello World!
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 0 1
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  1
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 1 1
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  2
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 1 2
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  3
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 2 3
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  5
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 3 5
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  8
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 5 8
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  13
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 8 13
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  21
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 13 21
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  34
+INFO  | 2022-09-21 22:53:26 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 21 34
+INFO  | 2022-09-21 22:57:21 | [main] assignment.App (App.java:14) - Hello World!
+INFO  | 2022-09-21 22:57:21 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 0 1
+INFO  | 2022-09-21 22:57:21 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  1
+INFO  | 2022-09-21 22:57:39 | [main] assignment.App (App.java:14) - Hello World!
+INFO  | 2022-09-21 22:57:39 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 0 1
+INFO  | 2022-09-21 22:57:39 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  1
+INFO  | 2022-09-21 22:57:57 | [main] assignment.App (App.java:14) - Hello World!
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:11) - 0 1
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  1
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  2
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  3
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  5
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  8
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  13
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  21
+INFO  | 2022-09-21 22:57:57 | [main] assignment.FibonacciSeries (FibonacciSeries.java:16) -  34
