@@ -116,3 +116,11 @@ INFO  | 2022-09-21 23:14:49 | [main] assignment.App (App.java:20) - 2.Prefect Nu
 INFO  | 2022-09-21 23:14:49 | [main] assignment.App (App.java:21) - 3.Prime Number
 INFO  | 2022-09-21 23:14:52 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
 INFO  | 2022-09-21 23:15:02 | [main] assignment.PrimeNumber (PrimeNumber.java:26) - 13 is a prime number.
+INFO  | 2022-09-21 23:25:49 | [main] assignment.App (App.java:17) - Hello World!
+INFO  | 2022-09-21 23:25:49 | [main] assignment.App (App.java:18) - Which program you want to run
+INFO  | 2022-09-21 23:25:49 | [main] assignment.App (App.java:19) - 1.Fibonacci Series
+INFO  | 2022-09-21 23:25:49 | [main] assignment.App (App.java:20) - 2.Prefect Number
+INFO  | 2022-09-21 23:25:49 | [main] assignment.App (App.java:21) - 3.Prime Number
+INFO  | 2022-09-21 23:25:49 | [main] assignment.App (App.java:22) - 4. Reverse Number
+INFO  | 2022-09-21 23:25:52 | [main] assignment.ReverseNumber (ReverseNumber.java:17) - Enter a number
+INFO  | 2022-09-21 23:25:56 | [main] assignment.ReverseNumber (ReverseNumber.java:24) - The reverse of the given number is: 654

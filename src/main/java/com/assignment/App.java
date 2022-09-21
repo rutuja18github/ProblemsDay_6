@@ -19,6 +19,7 @@ public class App {
 		logger.info("1.Fibonacci Series");
 		logger.info("2.Prefect Number");
 		logger.info("3.Prime Number");
+		logger.info("4. Reverse Number");
 		String choice = scanner.nextLine();
 		switch (choice) {
 		case "1":
@@ -31,6 +32,10 @@ public class App {
 		case "3":
 			PrimeNumber primeObj = new PrimeNumber();
 			primeObj.prime();
+			break;
+		case "4":
+			ReverseNumber reverseObj = new ReverseNumber();
+			reverseObj.reverseNum();
 			break;
 		}
 		
