@@ -18,6 +18,7 @@ public class App {
 		logger.info("Which program you want to run");
 		logger.info("1.Fibonacci Series");
 		logger.info("2.Prefect Number");
+		logger.info("3.Prime Number");
 		String choice = scanner.nextLine();
 		switch (choice) {
 		case "1":
@@ -26,6 +27,10 @@ public class App {
 		case "2":
 			PrefectNumber perfectObj = new PrefectNumber();
 			perfectObj.perfect();
+			break;
+		case "3":
+			PrimeNumber primeObj = new PrimeNumber();
+			primeObj.prime();
 			break;
 		}
 		

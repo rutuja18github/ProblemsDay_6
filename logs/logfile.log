@@ -104,3 +104,15 @@ INFO  | 2022-09-21 23:07:58 | [main] assignment.App (App.java:19) - 1.Fibonacci 
 INFO  | 2022-09-21 23:07:58 | [main] assignment.App (App.java:20) - 2.Prefect Number
 INFO  | 2022-09-21 23:08:01 | [main] assignment.PrefectNumber (PrefectNumber.java:15) - Enter the number: 
 INFO  | 2022-09-21 23:08:03 | [main] assignment.PrefectNumber (PrefectNumber.java:26) - 28 is a perfect number.
+INFO  | 2022-09-21 23:14:36 | [main] assignment.App (App.java:17) - Hello World!
+INFO  | 2022-09-21 23:14:36 | [main] assignment.App (App.java:18) - Which program you want to run
+INFO  | 2022-09-21 23:14:36 | [main] assignment.App (App.java:19) - 1.Fibonacci Series
+INFO  | 2022-09-21 23:14:36 | [main] assignment.App (App.java:20) - 2.Prefect Number
+INFO  | 2022-09-21 23:14:36 | [main] assignment.App (App.java:21) - 3.Prime Number
+INFO  | 2022-09-21 23:14:49 | [main] assignment.App (App.java:17) - Hello World!
+INFO  | 2022-09-21 23:14:49 | [main] assignment.App (App.java:18) - Which program you want to run
+INFO  | 2022-09-21 23:14:49 | [main] assignment.App (App.java:19) - 1.Fibonacci Series
+INFO  | 2022-09-21 23:14:49 | [main] assignment.App (App.java:20) - 2.Prefect Number
+INFO  | 2022-09-21 23:14:49 | [main] assignment.App (App.java:21) - 3.Prime Number
+INFO  | 2022-09-21 23:14:52 | [main] assignment.PrimeNumber (PrimeNumber.java:15) - Enter number
+INFO  | 2022-09-21 23:15:02 | [main] assignment.PrimeNumber (PrimeNumber.java:26) - 13 is a prime number.
